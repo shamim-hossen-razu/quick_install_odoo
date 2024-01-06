@@ -13,3 +13,4 @@ Here will be two script. You need to execute **install_pyenv.sh** first then **o
 **Step 2**
 From File > Setting > project > Interpreter > add virtual environments
 edit configuration.
+some other chnages
